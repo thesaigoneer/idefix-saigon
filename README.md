@@ -19,7 +19,7 @@ So, in this image you'll find an Sway Atomic install to which I added:
 
 And I removed:
 
-  -      firefox foot nvtopx
+  -      firefox foot nvtop
 ### Rebase
 
 First install the base iso of Fedora Sway Atomic or another Fedora atomic, like Kinoite , and then:
