@@ -15,14 +15,14 @@ That's right, those images are already very complete, yet application-wise prett
 
 So, in this image you'll find an Sway Atomic install to which I added:
 
-  -      nwg-shell hyprland azote rofi-wayland afetch kitty fastfetch mc micro
+  -      azote blueman fastfetch hyprland kitty mc micro
 
 And I removed:
 
-  -      foot nvtop firefox
+  -      firefox foot nvtopx
 ### Rebase
 
-First install the base iso of Sericea or another Fedora atomic, like Kinoite , and then:
+First install the base iso of Fedora Sway Atomic or another Fedora atomic, like Kinoite , and then:
 
     rpm-ostree rebase ostree-unverified-registry:ghcr.io/thesaigoneer/idefix-saigon:latest
 
