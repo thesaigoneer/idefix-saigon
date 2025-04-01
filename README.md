@@ -63,7 +63,7 @@ I'd suggest you install a browser of choice to get started. But all of this is u
 Enjoy your freshly installed Idefix-Saigon!
 
 --------------
-### yada yada
+### Yada yada
 
 Feel free to use these builds and dots. I do not, however, offer or imply any form of support or ongoing maintenance. 
 
