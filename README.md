@@ -15,11 +15,11 @@ That's right, those images are already very complete, yet application-wise prett
 
 So, in this image you'll find an Sway Atomic install to which I added:
 
-  -      azote blueman fastfetch hyprland kitty mc micro nwg-shell
+  -      azote blueman fastfetch hyprland mc micro nwg-shell
 
 And I removed:
 
-  -      firefox foot nvtop
+  -      firefox nvtop
 ### Rebase
 
 First install the base iso of Fedora Sway Atomic or another Fedora atomic, like Kinoite , and then:
