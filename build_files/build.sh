@@ -14,11 +14,11 @@ dnf5 install -y hyprland
 
 # Use a COPR Example:
 #
-dnf5 -y copr enable tofik/sway/
-dnf5 -y copr enable tofik/golang/
-dnf5 -y copr enable erikreider/SwayNotificationCenter/
-dnf5 -y copr enable mochaa/gtk-session-lock/
-dnf5 -y copr enable tofik/nwg-shell/
+dnf5 -y copr enable tofik/sway
+dnf5 -y copr enable tofik/golang
+dnf5 -y copr enable erikreider/SwayNotificationCenter
+dnf5 -y copr enable mochaa/gtk-session-lock
+dnf5 -y copr enable tofik/nwg-shell
 dnf5 -y install nwg-shell
 dnf5 -y install azote
 dnf5 -y install rofi-wayland
@@ -27,11 +27,11 @@ dnf5 -y install afetch
 
 # Disable COPRs so they don't end up enabled on the final image:
 # dnf5 -y copr disable ublue-os/staging
-dnf5 -y copr disable tofik/sway/
-dnf5 -y copr disable tofik/golang/
-dnf5 -y copr disable erikreider/SwayNotificationCenter/
-dnf5 -y copr disable mochaa/gtk-session-lock/
-dnf5 -y copr disable tofik/nwg-shell/
+dnf5 -y copr disable tofik/sway
+dnf5 -y copr disable tofik/golang
+dnf5 -y copr disable erikreider/SwayNotificationCenter
+dnf5 -y copr disable mochaa/gtk-session-lock
+dnf5 -y copr disable tofik/nwg-shell
 
 
 #### Example for enabling a System Unit File
