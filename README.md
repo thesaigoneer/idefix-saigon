@@ -7,9 +7,9 @@ I am always hunting for that immutable nwg-shell install. And if it could be bas
 The Universal Blue project (https://universal-blue.org/) provides a number of excellent images to start off with. Bluefin for Gnome, Bazzite for a gaming focus and Aurora as the KDE one.  
 They include codecs, printing support, homebrew for all your cli wishes, distrobox etc. out of the box. 
 
-As i've done before I'll roll my own then, based on Ublue's Sway Atomic image. I always use the latest branch, so updates to the latest Fedora will arrive automagically.
-
 #### A big thanks to @nwg-piotr, the maker of nwg-shell. And to @tofik who puts all that in COPR repos so I could apply it to this spin!
+
+As i've done before I'll roll my own then, in this case based on Ublue's Sway Atomic image. I always use the latest branch, so updates to the latest Fedora will arrive automagically.
 
 ### Why adjusting at all?
 
