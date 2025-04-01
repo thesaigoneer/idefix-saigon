@@ -1,6 +1,6 @@
 # Idefix Saigon
 
-### Adding nwg-shell to Ublue Sway Atomic
+### Adding nwg-shell for sway and hyprland to Ublue Sway Atomic
 
 I am always hunting for that immutable nwg-shell install. And if it could be based on Ublue's images that would be even better.
 
@@ -50,7 +50,9 @@ Press Super + P to open rofi, the included application launcher. Choose kitty to
 
 Logout out of Sway (Super+Shift+E) and log back in: nwg-shell is now running and ready for use. In SDDM you can also choose the hyprland option and log into that. From now on you can tweak and adjust atomic Sway and Hyprland with nwg-shell. 
 
-Listen. Our base is Fedora, so there's no Flathub enabled ootb. Let's rectify that first:
+### Listen 
+
+Our base is Fedora, so there's no Flathub enabled ootb. Let's rectify that first:
 
     flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo 
     
