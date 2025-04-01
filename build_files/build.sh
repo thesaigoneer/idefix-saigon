@@ -27,7 +27,6 @@ dnf5 install -y micro
 dnf5 install -y nwg-shell
 
 dnf5 remove -y firefox
-dnf5 remove -y foot
 dnf5 remove -y nvtop
 
 # Disable COPRs so they don't end up enabled on the final image:
