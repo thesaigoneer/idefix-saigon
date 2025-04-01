@@ -40,7 +40,7 @@ Finish with:
     
 Log in into idefix-saigon!
 
-### First things first
+### First things first:
 
 Now you have an Ublue Sway Atomic install, with nwg-shell included. But we'll have to activate that first:
 
@@ -49,8 +49,6 @@ Press Super + P to open rofi, the included application launcher. Choose kitty to
       nwg-shell-installer -a -hypr
 
 Logout out of Sway (Super+Shift+E) and log back in: nwg-shell is now running and ready for use. In SDDM you can also choose the hyprland option and log into that. From now on you can tweak and adjust atomic Sway and Hyprland with nwg-shell. 
-
-### Listen 
 
 Our base is Fedora, so there's no Flathub enabled ootb. Let's rectify that first:
 
