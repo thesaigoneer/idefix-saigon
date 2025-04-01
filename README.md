@@ -9,7 +9,7 @@ They include codecs, printing support, homebrew for all your cli wishes, distrob
 
 As i've done before I'll roll my own then, based on Ublue's Sway Atomic image. I always use the latest branch, so updates to the latest Fedora will arrive automagically.
 
-    !A big thanks to @nwg-piotr, the maker of nwg-shell. And to @tofik who puts all that in COPR repos so I could apply it to this spin!
+### A big thanks to @nwg-piotr, the maker of nwg-shell. And to @tofik who puts all that in COPR repos so I could apply it to this spin!
 
 ### Why adjusting at all?
 
