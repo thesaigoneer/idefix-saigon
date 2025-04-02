@@ -24,6 +24,7 @@ dnf5 install -y hyprland
 dnf5 install -y mc
 dnf5 install -y micro
 dnf5 install -y nwg-shell
+dnf5 install -y pamixer
 dnf5 install -y wdisplays
 dnf5 install -y wlogout
 
