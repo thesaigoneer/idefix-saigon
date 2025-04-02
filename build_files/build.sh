@@ -19,6 +19,7 @@ dnf5 -y copr enable tofik/nwg-shell
 # Add and remove packages to the image:
 dnf5 install -y azote
 dnf5 install -y blueman
+dnf5 install -y doublecmd-gtk
 dnf5 install -y fastfetch
 dnf5 install -y grimshot
 dnf5 install -y hyprland
