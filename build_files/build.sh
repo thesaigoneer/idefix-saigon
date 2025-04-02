@@ -20,6 +20,7 @@ dnf5 -y copr enable tofik/nwg-shell
 dnf5 install -y azote
 dnf5 install -y blueman
 dnf5 install -y fastfetch
+dnf5 install -y grimshot
 dnf5 install -y hyprland
 dnf5 install -y mc
 dnf5 install -y micro
