@@ -15,6 +15,7 @@ dnf5 -y copr enable tofik/golang
 dnf5 -y copr enable erikreider/SwayNotificationCenter
 dnf5 -y copr enable mochaa/gtk-session-lock
 dnf5 -y copr enable tofik/nwg-shell
+dnf5 -y copr enable solopasha/hyprland
 
 # Add and remove packages to the image:
 dnf5 install -y azote
@@ -27,6 +28,7 @@ dnf5 install -y mc
 dnf5 install -y micro
 dnf5 install -y nwg-shell
 dnf5 install -y pamixer
+dnf5 install -y waypaper
 dnf5 install -y wlogout
 
 dnf5 remove -y firefox
