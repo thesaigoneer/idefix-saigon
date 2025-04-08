@@ -60,6 +60,10 @@ Htop and vim are already included in the Sway Atomic base image. Both foot and k
 
 I'd suggest you install a browser of choice to get started. But all of this is up to the end user (being yourself obviously).
 
+My dots and configs for this setup are available on:
+
+      https://codeberg.org/thesaigoneer/idefix-saigon
+
 Enjoy your freshly installed Idefix-Saigon!
 
 --------------
