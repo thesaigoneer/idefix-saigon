@@ -46,7 +46,7 @@ Log in into idefix-saigon!
 
 Now you have an Ublue Sway Atomic install, with nwg-shell included. But we'll have to activate that first:
 
-Press Super + P to open rofi, the included application launcher. Choose foot to get to a terminal. In that terminal type the following and press Enter:
+Press Super + D to open rofi, the included application launcher. Choose foot to get to a terminal. In that terminal type the following and press Enter:
 
       nwg-shell-installer -a -hypr
 
@@ -54,7 +54,7 @@ Logout out of Sway (Super+Shift+E) and log back in: nwg-shell is now running and
 
 Our base is Fedora, so there's no Flathub enabled ootb. Let's rectify that first:
 
-    flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo 
+    flatpak remote-add flathub https://dl.flathub.org/repo/flathub.flatpakrepo 
     
 Htop and vim are already included in the Sway Atomic base image. Both foot and kitty are included in this image; they are both dependencies of the nwg-shell and hyprland packages respectively, so we'll have to manage with two terminals instead of one.
 
