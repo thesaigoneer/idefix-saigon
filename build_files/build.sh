@@ -21,7 +21,6 @@ dnf5 -y copr enable solopasha/hyprland
 dnf5 install -y blueman
 dnf5 install -y doublecmd-gtk
 dnf5 install -y fastfetch
-dnf5 install -y gparted
 dnf5 install -y grimshot
 dnf5 install -y hyprland
 dnf5 install -y mc
