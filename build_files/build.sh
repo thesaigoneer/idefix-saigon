@@ -29,6 +29,9 @@ dnf5 install -y nwg-shell
 dnf5 install -y pamixer
 dnf5 install -y waypaper
 dnf5 install -y wlogout
+dnf5 install -y zsh
+dnf5 install -y zsh-autosuggestions
+dnf5 install -y zsh-syntax-highlighting
 
 dnf5 remove -y firefox
 dnf5 remove -y nvtop
