@@ -17,7 +17,7 @@ That's right, those images are already very complete, yet application-wise prett
 
 So, in this image you'll find an Sway Atomic install to which I added:
 
-  -      blueman doublecmd-gtk fastfetch grimshot hyprland mc micro nwg-shell pamixer waypaper wdisplays wlogout zsh zsh-autosuggestions zsh-syntax-highlighting
+  -      blueman fastfetch grimshot hyprland mc micro nwg-shell pamixer ranger waypaper wdisplays wlogout zsh zsh-autosuggestions zsh-syntax-highlighting
 
 And I removed:
 
