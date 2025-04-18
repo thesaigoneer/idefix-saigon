@@ -29,6 +29,7 @@ dnf5 install -y pamixer
 dnf5 install -y ranger
 dnf5 install -y waypaper
 dnf5 install -y wlogout
+dnf5 install -y xdg-desktop-portal-gtk
 dnf5 install -y zsh
 dnf5 install -y zsh-autosuggestions
 dnf5 install -y zsh-syntax-highlighting
