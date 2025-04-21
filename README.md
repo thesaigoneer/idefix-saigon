@@ -66,7 +66,7 @@ First install Homebrew by running this script:
 
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-Closely follow the next steps in the terminal, as stated on-screen after install. The mentioned 'development-tools' are already included in Obelix.
+Closely follow the next steps in the terminal, as stated on-screen after install. The mentioned 'development-tools' are already included in Idefix.
 
 More information about Homebrew can be found at https://brew.sh/
 
