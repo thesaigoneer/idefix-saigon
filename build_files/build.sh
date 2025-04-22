@@ -18,12 +18,12 @@ dnf5 -y copr enable tofik/nwg-shell
 dnf5 -y copr enable solopasha/hyprland
 
 # Add and remove packages to the image:
-dnf5 install -y autofs
 dnf5 install -y blueman
 dnf5 install -y grimshot
 dnf5 install -y hyprland
 dnf5 install -y nwg-shell
 dnf5 install -y pamixer
+dnf5 install -y thunar-volman
 dnf5 install -y waypaper
 dnf5 install -y wlogout
 dnf5 install -y xdg-desktop-portal-gtk
