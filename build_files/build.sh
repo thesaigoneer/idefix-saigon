@@ -23,7 +23,6 @@ dnf5 install -y grimshot
 dnf5 install -y hyprland
 dnf5 install -y nwg-shell
 dnf5 install -y pamixer
-dnf5 install -y pcmanfm
 dnf5 install -y waypaper
 dnf5 install -y wlogout
 dnf5 install -y xdg-desktop-portal-gtk
