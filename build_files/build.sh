@@ -21,8 +21,10 @@ dnf5 -y copr enable solopasha/hyprland
 dnf5 install -y blueman
 dnf5 install -y grimshot
 dnf5 install -y hyprland
+dnf5 install -y niri
 dnf5 install -y nwg-shell
 dnf5 install -y pamixer
+dnf5 install -y waybar
 dnf5 install -y waypaper
 dnf5 install -y wlogout
 dnf5 install -y xdg-desktop-portal-gtk
@@ -44,6 +46,7 @@ dnf5 -y copr disable tofik/golang
 dnf5 -y copr disable erikreider/SwayNotificationCenter
 dnf5 -y copr disable mochaa/gtk-session-lock
 dnf5 -y copr disable tofik/nwg-shell
+dnf5 -y copr disable solopasha/hyprland
 
 
 #### Example for enabling a System Unit File
