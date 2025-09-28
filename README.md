@@ -15,9 +15,11 @@ So, in this image you'll find an Sway Atomic install to which I added:
 -        Added:                                           Added for Homebrew:
          blueman                                          procps-ng curl file git
          grimshot                                         group development-tools
-         hyprland                                                         
+         hyprland
+         niri                                                         
          nwg-shell                                        Removed:
-         pamixer                                          firefox
+         pamixer
+         waybar                                           firefox
          waypaper                                         nvtop
          wlogout                                                          
          zsh, zsh-autosuggestions                                           
